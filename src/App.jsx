@@ -1,7 +1,6 @@
 import {useState} from 'react'
 import './App.css'
-import ProductList from './assets/Components/ProductList';
-import ProductItem from './assets/Components/ProductItem';
+import ProductList from './Components/ProductList';
 
 function App() {
   const [products] = useState([
@@ -19,4 +18,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
