@@ -20,7 +20,7 @@ body {
   justify-content: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url('./wallpaper.jpg'); 
+  background-image: url('/wallpaper.jpg'); 
   background-size: cover;
   background-position: center;
 }
