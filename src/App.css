@@ -21,7 +21,7 @@
 }
 
 .products-container {
-  background-color: rgba(0, 0, 0, 0.297);
+  background: transparent;
   padding: 24px;
   border-radius: 12px;
 }
